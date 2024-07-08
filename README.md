@@ -59,7 +59,7 @@ we belive the model can be further tunes with hyper parameter adjustments and mo
 This assignment is completed in google colab pro and the train/tet files were feed from google drive by mounting the drive in colab. A new folder as Train_Augmented is created in parallel to the given train directory where we store the augmented files under class specific sub directories.
 
 Google drive link for the project 
-https://drive.google.com/drive/u/0/folders/1MhtK_DDDoDabVvrbL1mUW2-a4rIvevdF
+(https://drive.google.com/drive/u/1/folders/1ZP0rVG18IzBYm9PBLtcJ4mVDbVAagWTw)
 
 - Pandas
 - Numpy
